@@ -17,7 +17,7 @@ palette = 'rose-pine'
 
 [fill]
 symbol = ' '
-style = "bg:underlay"
+style = ""
 
 [username]
 format = "[](fg:overlay)[ 󰧱 $user ]($style)[](fg:overlay) "
