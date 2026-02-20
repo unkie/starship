@@ -57,7 +57,7 @@ deleted = '[×](style)'
 staged = '[+](bg:overlay fg:gold)'
 ahead = '[⇡](bg:overlay fg:foam)'
 diverged = '⇕[\[](bg:overlay fg:iris)[⇡](bg:overlay fg:foam)[⇣](bg:overlay fg:rose)[\]](bg:overlay fg:iris)'
-behind = '[⇣)](bg:overlay fg:rose)'
+behind = '[⇣](bg:overlay fg:rose)'
 
 [line_break]
 disabled = false
